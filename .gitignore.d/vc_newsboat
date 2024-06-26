@@ -14,3 +14,4 @@
 !/.config/newsboat/colors/solarized-light
 !/.config/newsboat/config
 !/.config/newsboat/urls
+!/.gitignore.d/vc_newsboat
