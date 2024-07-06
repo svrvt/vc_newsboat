@@ -1,5 +1,8 @@
 *
 !/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_newsboat
 !/.config/newsboat
 !/.config/newsboat/bookmarks.txt
 !/.config/newsboat/colors
