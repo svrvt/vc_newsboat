@@ -1,5 +1,8 @@
 *
+!/.config
+!/.config/newsboat
 !/.config/newsboat/bookmarks.txt
+!/.config/newsboat/colors
 !/.config/newsboat/colors/commander
 !/.config/newsboat/colors/cyanism
 !/.config/newsboat/colors/greenscreen
@@ -14,4 +17,5 @@
 !/.config/newsboat/colors/solarized-light
 !/.config/newsboat/config
 !/.config/newsboat/urls
+!/.gitignore.d
 !/.gitignore.d/vc_newsboat
