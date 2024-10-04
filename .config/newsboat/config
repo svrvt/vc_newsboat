@@ -197,7 +197,7 @@ browser "$BROWSER %u >/dev/null 2>&1"
 #
 # Default value: "~/.newsboat/cache.db" or "~/.local/share/cache.db" (see "Files" section)
 #
-cache-file "$XDG_CACHE_HOME/newsboat/testcache.db"
+cache-file "~/.cache/newsboat/cache.db"
 
 ####  cleanup-on-quit
 #
@@ -359,7 +359,7 @@ cache-file "$XDG_CACHE_HOME/newsboat/testcache.db"
 #
 # Default value: ""
 #
-# error-log "~/.newsboat/error.log"
+error-log "~/.cache/newsboat/error.log"
 
 ####  external-url-viewer
 #
