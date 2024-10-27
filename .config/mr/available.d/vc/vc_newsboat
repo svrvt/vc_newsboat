@@ -1,4 +1,13 @@
 [$HOME/.config/vcsh/repo.d/vc_newsboat.git]
 checkout = vcsh clone https://github.com/svrvt/vc_newsboat.git
 
+[$HOME/src/build/newsboat]
+checkout = git clone https://github.com/newsboat/newsboat.git
+
+[$HOME/src/build/stfl]
+checkout = git clone https://github.com/newsboat/stfl.git
+
+[$HOME/src/build/json-c]
+checkout = git clone https://github.com/json-c/json-c.git
+
 # vi: ft=ini syntax=bash
