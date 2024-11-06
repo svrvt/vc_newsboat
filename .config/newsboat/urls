@@ -8,6 +8,7 @@
 # http://www.newsbeuter.org/doc/newsbeuter.html#_query_feeds
 # query:<name of feed>:<filter expression> [<tag> ...]
 "query:All Unread Articles:unread = \"yes\""
+"query:All Articles Data:tags # \"Data\"" "Data"
 "query:All Articles News-states:tags # \"News-states\"" "News-states"
 "query:All Articles Video-MMA:tags # \"Video-MMA\"" "Video-MMA"
 
@@ -26,6 +27,13 @@
 https://ria.ru/export/rss2/archive/index.xml "News-states"
 https://rssexport.rbc.ru/rbcnews/news/30/full.rss "News-states"
 # }}}
+
+# -------- Data {{{
+# ------------------------------------------------------
+https://papers.probabl.ai/rss.xml "Data" "~:probabl.papers"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIat2Cdg661wF5DQDWTQAmg "Data" "~:probabl.youtube"
+# }}}
+
 
 # -------- Video-MMA {{{
 # ------------------------------------------------------
