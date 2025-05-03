@@ -2,8 +2,8 @@
 !/.config
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/build
-!/.config/mr/available.d/build/build-newsboat
+!/.config/mr/available.d/browser.build.newsboat
+!/.config/mr/available.d/newsboat.apps.browser.build
 !/.config/mr/available.d/vc
 !/.config/mr/available.d/vc/vc_newsboat
 !/.config/newsboat

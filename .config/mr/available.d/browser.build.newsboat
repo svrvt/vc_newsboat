@@ -1,0 +1,14 @@
+#newsboat
+[$HOME/src/github.com/newsboat/newsboat]
+checkout = git clone https://github.com/newsboat/newsboat.git
+link = ln -sfn $PWD $HOME/src/build/newsboat.link
+
+[$HOME/src/github.com/newsboat/stfl]
+checkout = git clone https://github.com/newsboat/stfl.git
+link = ln -sfn $PWD $HOME/src/build/stfl.link
+
+[$HOME/src/github.com/json-c/json-c]
+checkout = git clone https://github.com/json-c/json-c.git
+link = ln -sfn $PWD $HOME/src/build/json-c.link
+
+# vi: ft=ini syntax=bash
