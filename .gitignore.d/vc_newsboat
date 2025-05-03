@@ -3,9 +3,7 @@
 !/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/browser.build.newsboat
-!/.config/mr/available.d/newsboat.apps.browser.build
-!/.config/mr/available.d/vc
-!/.config/mr/available.d/vc/vc_newsboat
+!/.config/mr/available.d/workflow.vc.newsboat
 !/.config/newsboat
 !/.config/newsboat/bookmarks.txt
 !/.config/newsboat/colors
